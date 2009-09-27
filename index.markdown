@@ -3,7 +3,7 @@ layout: default
 title: Jekyll Test Site
 ---
 
-This project <a href="http://github.com//testsite">Jekyll Test Site</a> is awesome.
+This project <a href="http://github.com/denzuko/Jekyll-Test-Site">Jekyll Test Site</a> is awesome.
 
 To enable Disqus comments + badges for this site, [add it to your Disqus account](http://disqus.com/add/).
 
