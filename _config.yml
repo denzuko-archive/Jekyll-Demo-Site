@@ -13,3 +13,8 @@ exclude:
   - config
   - tasks
   - config.yml
+  
+sass: true
+haml: true
+post_defaults:
+  layout: post
