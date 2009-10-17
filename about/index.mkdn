@@ -1,0 +1,25 @@
+---
+layout: page
+title: About
+---
+
+== Summary
+Web 2.0 Application Developer, Database Administrator, and Project Manager in a wide variety of applications. Particularly interested in client/server and relational database design using LAMP. Always interested in migration projects.
+
+Also interested in Graphic design and Website design projects.
+
+Dwight Spencer’s Specialties:
+ XML, HTML, JavaScript, usability, CSS, Open Source, New Media 
+
+== Experence
+=== Current
+ * Editor in Chief at The Teachings of Master Denzuko
+ * President/CIO at CompuTEK Industries, LLC. (Sole Proprietorship)
+
+=== Past
+ * Web Developer and Graphic Designer at Indepedent Freelancer (Self-employed)
+ * Freelance Website Designer at Freelance Computer Services
+ * RoR Developer at Silkfair
+ * Open Source Software Engineer at Independant Consultant
+ * Consultant Web Site Designer at Independant Consultant (Self-employed)
+ * Call Center Representative at ICT Group
